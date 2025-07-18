@@ -3,7 +3,7 @@ Official Website & Application for Dr. Mohamed Nashaat
 
 > An instance of Beta LMS
 
-Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/a7bee3c3-21bf-41b1-9145-612af446b1b6/deploy-status)](https://app.netlify.com/sites/dr-youssef-nagah/deploys)
+Deployment Status: [![Netlify Status](https://api.netlify.com/api/v1/badges/eca733db-d902-459c-a728-3a808fe35061/deploy-status)](https://app.netlify.com/projects/chemconnect-academy/deploys)
 
 <br>
 
