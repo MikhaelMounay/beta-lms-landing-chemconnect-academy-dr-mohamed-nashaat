@@ -1,6 +1,5 @@
-# Mr. Youssef Nagah
-`Honor Biology | Youssef Nagah`
-Official Website & Application for Mr. Youssef Nagah
+# BetaLMS | ChemConnect Academy
+Official Website & Application for Dr. Mohamed Nashaat
 
 > An instance of Beta LMS
 
